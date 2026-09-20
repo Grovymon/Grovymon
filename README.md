@@ -19,6 +19,10 @@ I build who-knows-what—mostly tools and optimizations that solve problems I ha
 - I like building tools that I would genuinely use myself.
 - Occasionally, everything even works on the first try.
 
+## Community
+
+💬 **[Join the Discord server](https://discord.gg/gUPsQCnTeN)**
+
 ## What I'm Working On
 
 - Improving [Create: Give Me FPS](https://github.com/Grovymon/Create-Give-Me-FPS), a set of client-side Create performance controls for NeoForge.
@@ -79,6 +83,10 @@ I build who-knows-what—mostly tools and optimizations that solve problems I ha
 - Работаю с Fabric, NeoForge, Java и Gradle.
 - Делаю инструменты, которыми действительно хочется пользоваться самому.
 - Иногда всё даже работает с первого раза.
+
+#### Сообщество
+
+💬 **[Присоединиться к Discord-серверу](https://discord.gg/gUPsQCnTeN)**
 
 #### Над чем я сейчас работаю
 
